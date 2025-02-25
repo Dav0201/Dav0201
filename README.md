@@ -1,6 +1,6 @@
 <div class="header" align="center">
 <h1 align="center" >Hi 👋, I´m Dave</h1>
-<h3 align="center"> I'm a passionate developer with experience in a wide variety of programming languages and development tools, such as Java, JavaScript, HTML, CSS, and Spring, as well as in the implementation of databases such as MySQL, SQL Server, and PostgreSQL. I love working on innovative and challenging projects that have a positive impact on society. If you need help bringing your idea to reality, I'm here to assist you! Together, we can create creative and high-quality software solutions that exceed your expectations.</h3>
+<h3 align="center"> I'm a passionate developer with experience in a wide variety of programming languages and development tools, such as Python, React, HTML, CSS, and DJANGO, FLASK, as well as in the implementation of databases such as MySQL, SQL Server, and PostgreSQL. I love working on innovative and challenging projects that have a positive impact on society. If you need help bringing your idea to reality, I'm here to assist you! Together, we can create creative and high-quality software solutions that exceed your expectations.</h3>
              <a href="https://www.facebook.com/DavidCGarcia0201/" target="_blank"> <img src="https://img.shields.io/badge/%20%40DavidCGarcia0201-facebook-blue"></img></a>
         <a href="https://www.instagram.com/david_malrp/" target="_blank"><img src="https://img.shields.io/badge/%40david__malrp-instagram-orange"></img></a>
 
